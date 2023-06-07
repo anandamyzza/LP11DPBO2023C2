@@ -11,7 +11,7 @@ Program ini menggunakan database bernama **mvp_01** yang memiliki satu tabel ber
 1. Pengguna akan dihadapkan dengan halaman yang menampilkan data-data pada tabel pasien.
 2. Pengguna bisa menambahkan data dengan menekan tombol "**ADD NEW DATA**" yang terletak di atas judul tabel pasien. Pengguna akan dihadapkan dengan formulir untuk mengisi data pasien baru.
 3. Pengguna bisa mengubah data pasien dengan menekan tombol "**Edit**" pada kolom **ACTION**. Pengguna akan dihadapkan dengan halaman formulir yang sudah terisi dengan data pasien yang pengguna pilih, pengguna bisa bebas mengubah data apa saja yang ingin diubah.
-4. Pengguna bisa menghapus data pasien dengan menekan tombol "**DELETE**" pada kolom **ACTION**. Data yang pengguna pilih akan langsung dihapus dari database sehingga data pasien juga akan hilang dalam tabel pasien tersebut.
+4. Pengguna bisa menghapus data pasien dengan menekan tombol "**Delete**" pada kolom **ACTION**. Data yang pengguna pilih akan langsung dihapus dari database sehingga data pasien juga akan hilang dalam tabel pasien tersebut.
 
 ## Dokumentasi
 https://github.com/anandamyzza/LP11DPBO2023C2/assets/100767177/60c922a6-7be0-412e-a2b6-4b0a7883b9e6
